@@ -1,0 +1,11 @@
+{
+    "game": "TEST_APP",
+    "event": "TEST_EVENT",
+    "data": {
+        "value": 0,
+        "frame": {
+            "first-line": "First line text",
+            "second-line": "Second line text"
+        } 
+    }
+}

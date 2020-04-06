@@ -1,0 +1,26 @@
+{
+    "game": "TEST_APP",
+    "event": "TEST_EVENT",
+    "handlers": [
+        {
+            "device-type": "screened-128x52",
+            "mode": "screen",
+            "zone": "one",
+            "datas": [
+                {
+                    "icon-id": 16,
+                    "lines": [
+                        {
+                            "has-text": true,
+                            "context-frame-key": "first-line"
+                        },
+                        {
+                            "has-text": true,
+                            "context-frame-key": "second-line"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
